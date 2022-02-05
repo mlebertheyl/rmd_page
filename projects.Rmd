@@ -1,0 +1,26 @@
+---
+title: 'My projects'
+author: 'Kristina H. Manning'
+---
+
+This is a list of my most recent projects.
+
+1. Adding two numbers using `R`.
+```{r}
+a <- 1
+b <- 2
+print(a + b)
+```
+
+2. Sampling from the Standard Normal Distribution.
+```{r}
+(v <- rnorm(n = 10))
+```
+
+3. Multiplying two vectors.
+```{r}
+x <- seq(from = 1, to = 3, by = 1)
+y <- seq(from = 4, to = 6, by = 1)
+(z <- x %*% y)
+```
+
