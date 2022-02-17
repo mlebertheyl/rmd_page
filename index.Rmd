@@ -3,7 +3,12 @@ title: 'My website created using R Markdown'
 author: 'Martina'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac sem sit amet eros faucibus porttitor. Cras iaculis magna eu lectus vulputate, at mattis risus euismod. Mauris ultricies sem vitae augue posuere facilisis. Curabitur quis arcu nec sem elementum commodo. Aliquam ultrices mattis tortor et iaculis. Morbi sit amet lacus lacus. Cras maximus purus felis. Curabitur lacinia euismod tellus, sit amet facilisis nisl ullamcorper eu. Aenean vel nunc lacus. Ut molestie ac ligula quis luctus. Sed dignissim interdum sapien interdum sodales. Pellentesque nec molestie libero, ac feugiat lectus. Ut cursus odio in rutrum consequat.
+The project is stored as a website link under 
 
-Donec sapien ipsum, vestibulum nec eros et, efficitur iaculis est. Proin sed odio nunc. Duis a malesuada dolor. Curabitur velit magna, consectetur non sagittis in, feugiat at magna. In imperdiet metus et tortor scelerisque luctus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque suscipit lorem nec maximus iaculis. Curabitur est arcu, cursus non risus quis, feugiat posuere nibh. Mauris eget ligula purus. Sed et consectetur elit. Donec purus turpis, rhoncus non volutpat nec, aliquam porta mauris. Fusce luctus, nisl in lacinia lacinia, ante ipsum gravida enim, interdum faucibus ante sapien eu magna. Sed sollicitudin commodo porta. Nulla ultrices tortor purus, eu posuere eros elementum a. Sed vitae efficitur nunc. 
+´username.github.io/name_of_the project´
+
+In my case it would be under: 
+
+mlebertheyl.github.io/rmd_page
+
 
