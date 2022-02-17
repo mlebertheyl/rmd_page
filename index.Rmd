@@ -11,4 +11,21 @@ In my case it would be under:
 
 mlebertheyl.github.io/rmd_page
 
+This gives an error because the domain is not properly set yet.
+
+To set the domain:
+
+-> Go to github settings on the repository you are working on
+
+-> Pages
+
+Tell github this repository will be staged as a webpage:
+
+-> None -> main
+
+-> Folder to be used for the rendered file will be /docs instead of the / folder /(root)
+
+-> get message with url
+
+-> once the message is green your page is ready
 
