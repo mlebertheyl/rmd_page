@@ -1,6 +1,6 @@
 ---
 title: 'My website created using R Markdown'
-author: 'Kristina H. Manning'
+author: 'Martina'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac sem sit amet eros faucibus porttitor. Cras iaculis magna eu lectus vulputate, at mattis risus euismod. Mauris ultricies sem vitae augue posuere facilisis. Curabitur quis arcu nec sem elementum commodo. Aliquam ultrices mattis tortor et iaculis. Morbi sit amet lacus lacus. Cras maximus purus felis. Curabitur lacinia euismod tellus, sit amet facilisis nisl ullamcorper eu. Aenean vel nunc lacus. Ut molestie ac ligula quis luctus. Sed dignissim interdum sapien interdum sodales. Pellentesque nec molestie libero, ac feugiat lectus. Ut cursus odio in rutrum consequat.
